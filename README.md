@@ -1,4 +1,9 @@
 ## Hi there 👋
+[![Rss](https://img.shields.io/badge/blog-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://blog.depa.do)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/depa.do)
+[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/depadow)
+[![Stack Overflow](https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1343321/depado)
+[![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/depado)
 
 I'm depado, a 🇫🇷 french developer mostly interested in backend development and infrastructure!
 
@@ -29,14 +34,10 @@ I'm depado, a 🇫🇷 french developer mostly interested in backend development
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Socials
-
-[![Rss](https://img.shields.io/badge/blog-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://blog.depa.do)
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/depa.do)
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/depadow)
-[![Stack Overflow](https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1343321/depado)
-[![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/depado)
-
-### Trophies
+<details>
+<summary><h3>🏆 Trophies</h3></summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=depado&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+
