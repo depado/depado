@@ -19,8 +19,7 @@ I'm depado, a 🇫🇷 french developer mostly interested in backend development
   <img src="https://github-readme-stats.vercel.app/api?username=depado&show_icons=true&disable_animations=true" />
 </picture>
 
-<details>
-<summary><h3>💻 Techs</h3></summary>
+### 💻 Techs
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,12 +37,7 @@ I'm depado, a 🇫🇷 french developer mostly interested in backend development
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-</details>
-
-<details>
-<summary><h3>🏆 Trophies</h3></summary>
+### 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=depado&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</details>
 
