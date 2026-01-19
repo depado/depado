@@ -37,7 +37,3 @@ I'm depado, a 🇫🇷 french developer mostly interested in backend development
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=depado&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
