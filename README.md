@@ -7,18 +7,6 @@
 
 I'm depado, a 🇫🇷 french developer mostly interested in backend development and infrastructure!
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=depado&show_icons=true&theme=dark&disable_animations=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=depado&show_icons=true&disable_animations=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=depado&show_icons=true&disable_animations=true" />
-</picture>
-
 ### 💻 Techs
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
